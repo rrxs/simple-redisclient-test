@@ -1,0 +1,14 @@
+{
+  "name": "redis-client-test",
+  "version": "1.0.0",
+  "description": "Tiny app to test a connection with a redis server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robson Xavier",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
+}
